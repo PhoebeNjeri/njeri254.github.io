@@ -69,10 +69,10 @@ body{
 #dev-content{
     display: none;
 }
-#prod-content{
+/* #prod-content{
     display: none;
-}
-.portfolio h5{
+} */
+#portfolio {
     text-align: center;
 }
 .portfolio{
