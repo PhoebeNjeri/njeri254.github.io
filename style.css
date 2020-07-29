@@ -54,14 +54,14 @@ body{
 .col-md-4 {
     text-align: center;
 }
-.contact{
-    background-image: url(images/IP3-master/assets/backgrounds/c_image.jpg);
-    background-image: url(images/IP3-master/assets/backgrounds/c_image.jpg);
+#contact{
+   color: white;
+    background-image: url("images/IP3-master/assets/backgrounds/c_image.jpg");
     background-size: cover;
-    height: 480px;
-    position: relative;
-    padding: 90px;
-    text-align: center;
+    height: 65vh;
+    height: 25rem;
+    margin-top: 25px;
+    padding: 15px;
 }
 #content5{
     display: none;
@@ -72,7 +72,7 @@ body{
 /* #prod-content{
     display: none;
 } */
-#portfolio {
+#portfolio{
     text-align: center;
 }
 .portfolio{
