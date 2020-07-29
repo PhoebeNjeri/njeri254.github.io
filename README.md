@@ -9,6 +9,8 @@
 * Create an account on Github fork the repository from github:https://github.com/PhoebeNjeri/njeri254.github.io
 * clone the link
 * open the link from where the repository is saved.
+##Live Pages
+*  https://phoebenjeri.github.io/njeri254.github.io/.
 ## Technologies Used
 * HTML-For building the user interface
 * CSS-For styling the user interface
